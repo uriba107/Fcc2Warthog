@@ -16,6 +16,12 @@ The photos show the real hardware: the 3 mm stainless top plate, the two white p
 the printed controller ring carrying the controller PCB, four 70 mm aluminium standoffs, and the
 Monstertech mounting plate underneath for the desk mount.
 
+## Assembly animation
+
+A Fusion 360 animation of the assembly sequence:
+
+[![FCC3 to WH mount - Assembly Animation](https://img.youtube.com/vi/VMw6uuRLchw/hqdefault.jpg)](https://youtu.be/VMw6uuRLchw)
+
 ## Renders
 
 | | |
